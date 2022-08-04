@@ -5,3 +5,6 @@ The website will contain a main image and names of some recipes, these recipes w
 
 Will revisit the project after advancing my skills more to format the page into a more user friendly environament which is pleasing to the eyes too.
 
+edit [4/8/2022] : added basic css to it
+
+Click to visit page: https://rriya1.github.io/Recipes/
